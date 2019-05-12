@@ -1,4 +1,4 @@
-Untuk melihat langsung hasil dari projet bisa visit https://tri-waliangga.github.io/animal-sound
+Untuk melihat langsung hasil dari project bisa visit https://tri-waliangga.github.io/animal-sound
 
 ## Animal-Sound
 
